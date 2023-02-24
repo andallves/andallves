@@ -6,8 +6,9 @@
 <br>
 <div>
   <a href="https://github.com/andallves">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=tokyonight">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&count_private=true&show_icons=true&theme=tokyonight&hide_progress=false&layout=compact">
+    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=tokyonight">
+    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&count_private=true&show_icons=true&theme=tokyonight&hide_progress=false&layout=compact">
+  </a>
 </div>
 
 <div style="display: inline_block; margin: 0 auto"><br>

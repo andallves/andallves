@@ -6,10 +6,9 @@
 <br>
 <div>
   <a href="https://github.com/andallves">
-    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true" />
+    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=tokyonight"/>
     <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=tokyonight">
     <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=donut&count_private=true&show_icons=true&theme=tokyonight&hide_progress=false">
-    (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 

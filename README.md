@@ -10,6 +10,17 @@
     <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&count_private=true&show_icons=true&theme=tokyonight&hide_progress=false&layout=compact">
   </a>
 </div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <div style="display: inline_block; margin: 0 auto"><br>
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

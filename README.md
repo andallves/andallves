@@ -25,7 +25,10 @@
   <img align="center" alt="And-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="And-Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" />
   <img align="center" alt="And-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="And-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="And-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="And-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="And-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ##

@@ -3,9 +3,10 @@
 - 🔭 Desenvolvedor Full Stack
 - 🌱 No momento estou aprimorando minhas habilidades com React.js com Typescript
 
-  Aqui você encontra código feito durante cursos e também alguns projetos pessoais que venho desenvolvendo para praticar meus conhecimentos a cada <br/>nova
+  Aqui você encontra código feito durante cursos e também alguns projetos pessoais que venho desenvolvendo para praticar meus conhecimentos a cada nova
   tecnologia que aprendo.
 
+<br/>
 <br/>
 <br/>
 <div>
@@ -14,6 +15,8 @@
     <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
   </a>
 </div>
+
+<br/>
 
 <div style="display: inline_block; margin: 0 auto"><br>
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -31,6 +34,8 @@
   <img align="center" alt="And-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
+<br/>
+<br/>
 ##
 
 <div> 

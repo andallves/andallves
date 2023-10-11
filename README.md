@@ -1,11 +1,11 @@
-<div width="80%" display="flex" align="center" font-family="Montserrat">
+<div width="80%" display="flex" align="center" font-family="Montserrat" justify="flex-start">
  <h2>Olá, eu sou André Alves 👋</h2>
 
-<div align="center" display="flex" justify="flex-start" margin="40 auto" width="80%" style="width: 80%; margin: 40rem auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
+<div align="center" display="flex" justify="flex-start" margin="40 auto" width="100%" style="width: 80%; margin: 40rem auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
   <h1>🔭 Desenvolvedor Full Stack</h2>
   <h3>🌱 Com conhecimento na lib React.js estou aprendendo o framework Angular no frontend e Java com JavaSpring no backend.</h3>
 
-   <p style="font-size: 34px">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos a cada nova tecnologia que aprendo <br/>e projetos desenvolvindo em cursos que venho fazendo.</p>
+   <p font-size="12">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos a cada nova tecnologia que aprendo <br/>e projetos desenvolvindo em cursos que venho fazendo.</p>
 </div>
 
 <div>

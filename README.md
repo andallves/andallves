@@ -7,25 +7,23 @@
  <p style="font-size: 18pt">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos
    <br/>a cada nova tecnologia que aprendo e projetos desenvolvindo em cursos que venho fazendo.</p>
 </div>
-<br/>
-<br/>
-<br/>
+
 <div>
   <a href="https://github.com/andallves">
-    <img max-width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=github_dark" />
-    <img max-width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
+    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=github_dark" />
+    <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
   </a>
 </div>
 
 <br/>
 
-<div style="display: inline_block; margin: 0 auto; padding: 120em 20em"><br>
+<div style="display: inline_block; margin: 0 auto; padding: 120em 20em">
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />    
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="And-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="And-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="And-Angular" height="30" width="100%" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-48.png" />
+  <img align="center" alt="And-Angular" height="30" width="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-48.png" />
   <img align="center" alt="And-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
   <img align="center" alt="And-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="And-Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" />

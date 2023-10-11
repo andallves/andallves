@@ -4,7 +4,7 @@
   <h2>🔭 Desenvolvedor Full Stack</h2>
   <h3>- 🌱 Com conhecimento na lib React.js estou aprendendo o framework Angular no frontend e Java com JavaSpring no backend.</h3>
 
- <p style="font-size: 14px;">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos
+ <p style="font-size: 18px;">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos
    <br/>a cada nova tecnologia que aprendo e projetos desenvolvindo em cursos que venho fazendo.</p>
 </div>
 <br/>

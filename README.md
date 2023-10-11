@@ -1,18 +1,19 @@
 ### Olá, eu sou André Alves 👋
 
-- 🔭 Desenvolvedor Full Stack
-- 🌱 No momento estou aprimorando minhas habilidades com React.js com Typescript
+<div style="width: 80%; margin: 40em auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+  <h2>🔭 Desenvolvedor Full Stack</h2>
+  <h3>- 🌱 Com conhecimento na lib React.js estou aprendendo o framework Angular no frontend e Java com JavaSpring no backend.</h3>
 
-  Aqui você encontra código feito durante cursos e também alguns projetos pessoais que venho desenvolvendo para praticar meus conhecimentos a cada nova
-  tecnologia que aprendo.
-
+ <p>Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos
+   <br/>a cada nova tecnologia que aprendo e projetos desenvolvindo em cursos que venho fazendo.</p>
+</div>
 <br/>
 <br/>
 <br/>
 <div>
   <a href="https://github.com/andallves">
-    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=github_dark" />
-    <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
+    <img max-width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=github_dark" />
+    <img max-width="380em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
   </a>
 </div>
 

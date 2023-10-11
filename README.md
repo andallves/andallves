@@ -13,9 +13,7 @@
     <img width="420"  height="200" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=github_dark" />
     <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
   </a>
-</div>
-
-<br/>
+</div>s
 
 <div style="display: inline_block; margin: 0 auto; padding: 120em 20em">
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />

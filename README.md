@@ -1,6 +1,6 @@
 ### Olá, eu sou André Alves 👋
 
-<div align="center" display="flex" margin="40 auto" width="80%" style="width: 80%; margin: 40rem auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
+<div align="center" display="flex" justify="flex-start" margin="40 auto" width="80%" style="width: 80%; margin: 40rem auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
   <h2>🔭 Desenvolvedor Full Stack</h2>
   <h3>🌱 Com conhecimento na lib React.js estou aprendendo o framework Angular no frontend e Java com JavaSpring no backend.</h3>
 

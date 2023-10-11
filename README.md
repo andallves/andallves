@@ -1,3 +1,4 @@
+<div width="80%">
 ### Olá, eu sou André Alves 👋
 
 <div align="center" display="flex" justify="flex-start" margin="40 auto" width="80%" style="width: 80%; margin: 40rem auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
@@ -44,4 +45,5 @@
   <a href = "andrealves10a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre_alves_pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
 </div>

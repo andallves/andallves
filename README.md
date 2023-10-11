@@ -1,10 +1,10 @@
 ### Olá, eu sou André Alves 👋
 
-<div style="width: 80%; margin: 40em auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+<div style="width: 80%; margin: 40em auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
   <h2>🔭 Desenvolvedor Full Stack</h2>
   <h3>🌱 Com conhecimento na lib React.js estou aprendendo o framework Angular no frontend e Java com JavaSpring no backend.</h3>
 
- <p style="font-size: 18pt;">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos
+ <p style="font-size: 18pt">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos
    <br/>a cada nova tecnologia que aprendo e projetos desenvolvindo em cursos que venho fazendo.</p>
 </div>
 <br/>
@@ -19,7 +19,7 @@
 
 <br/>
 
-<div style="display: inline_block; margin: 0 auto; padding: 40em 20em"><br>
+<div style="display: inline_block; margin: 0 auto; padding: 120em 20em"><br>
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />    
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />

@@ -8,9 +8,8 @@
    <p font-size="14"  align="start">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos a cada nova tecnologia que aprendo <br/>e projetos desenvolvindo em cursos que venho fazendo.</p>
 </div>
 
-<div>
+<div style="margin: 0 auto;">
   <a href="https://github.com/andallves">
-    <img width="420"  height="200" src="https://github-readme-stats.vercel.app/api?username=andallves&count_private=true&show_icons=true&theme=github_dark" />
     <img width="420" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andallves&layout=compact&count_private=true&show_icons=true&theme=github_dark&hide_progress=false" />
   </a>
 </div>

@@ -1,11 +1,11 @@
 <div width="80%" display="flex" align="center" font-family="Montserrat" justify="flex-start">
- <h2  align="start">Olá, eu sou André Alves 👋</h2>
+ <h2  align="start">👋 Olá, eu sou André Alves</h2>
 
 <div align="center" display="flex" justify="start" margin="40 auto" width="100%" style="width: 80%; margin: 40rem auto; display: flex; flex-direction: column; align-items: center; justify-content: flex-start">
   <h1 align="start">🔭 Desenvolvedor Full Stack</h2>
-  <h3  align="start">🌱 Com conhecimento na lib React.js estou aprendendo o framework Angular no frontend e Java com JavaSpring no backend.</h3>
+  <h3  align="start">🌱 Com experiência em desenvolvimento frontend em React e Angular, atualmente busco me aprimorar no backend com C#.</h3>
 
-   <p font-size="14"  align="start">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos a cada nova tecnologia que aprendo <br/>e projetos desenvolvindo em cursos que venho fazendo.</p>
+   <p font-size="14"  align="start">Este repositório contém projetos pessoais, feito no intuito de por em prática meus conhecimentos a cada nova tecnologia que aprendo <br/>e projetos desenvolvidos em cursos que venho fazendo.</p>
 </div>
 
 <div style="margin: 50px auto;">
@@ -29,9 +29,6 @@
   <img align="center" alt="And-Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" />
   <img align="center" alt="And-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="And-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="And-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="And-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="And-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
@@ -42,8 +39,8 @@
 
 <div> 
   <a href="https://instagram.com/andallves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "andrealves10a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre_alves_pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://gmail.com/andrealves10a@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andre-alves-pereira-02738114b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 </div>
